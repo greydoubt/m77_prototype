@@ -1,6 +1,7 @@
 # HTML2Vec
 Converts list of URLs to salient features for ML tasks
 
+# THIS LIBRARY WILL DOWNLOAD THE ENTIRE INTERNET. IT CAN GET YOU BANNED, ARRESTED, DEPORTED, ETC
 
 Files/Pipeline
 
